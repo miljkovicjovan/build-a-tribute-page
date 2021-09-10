@@ -1,0 +1,47 @@
+html,
+body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+    color: rgb(241, 241, 241);
+    text-align: center;
+    background-color: rgb(118, 106, 122);
+}
+
+#img-div {
+    background-color: #fff;
+    padding: 6%;
+    display: flex;
+    flex-direction: column;
+}
+
+#img-caption {
+    margin-top: 3%;
+    color: rgb(118, 106, 122);
+}
+
+#headline {
+    margin-top: 3%;
+}
+
+ul {
+    text-align: left;
+    width: 70%;
+    padding-left: 15%;
+}
+
+li {
+    padding: 0.5%;
+}
+
+blockquote {
+    width: 60%;
+    padding: 10% 0 6% 20%;
+    margin-inline-start: 0;
+}
+
+#footer {
+    padding-bottom: 6%;
+}
