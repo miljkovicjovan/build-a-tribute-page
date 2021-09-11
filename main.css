@@ -17,6 +17,10 @@ body {
     flex-direction: column;
 }
 
+#image {
+    max-width: 100%;
+}
+
 #img-caption {
     margin-top: 3%;
     color: rgb(118, 106, 122);
